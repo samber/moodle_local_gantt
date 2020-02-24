@@ -17,9 +17,9 @@
 /**
  * Provides the plugin strings.
  *
- * @package     tool_pluginskel
+ * @package     tool_gantt
  * @category    string
- * @copyright   2016 Alexandru Elisei <alexandru.elisei@gmail.com>, David Mudrák <david@moodle.com>
+ * @copyright   2019 Samuel Berthe
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
