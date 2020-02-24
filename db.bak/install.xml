@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="mod/gantt/db" VERSION="20191105" COMMENT="XMLDB file for Moodle mod/gantt"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd">
+    <TABLES>
+    </TABLES>
+</XMLDB>
